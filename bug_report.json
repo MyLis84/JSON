@@ -1,1 +1,17 @@
+{
+"bug report": {
+"ID_number": "#324789",
+"application": "Vizio",
+"URL": "https://www.vizio.com/",
+"reported by": "Mariana Silanteva",
+"summary": "ZIP_field accepts letters instead of being digits only",
+"steps to reproduce": "main menu > Find a retailer > Enter your ZIP > B15019 > Push button Search",
+"expected result": "if you enter the invalid ZIP code you see error message",
+"actual result": "ZIP_field accepts letters and opens the map with the nearest shops",
+"attachments": null,
+"severity": "major",
+"priority": "medium",
+"environment": "Windows 11 Pro Chrome 116.0.5845.141 (official), (64 bit)",
+"assigned to": "somebody"}
+}
 
